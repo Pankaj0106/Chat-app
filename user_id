@@ -1,0 +1,6 @@
+pankajbhatt12345
+0ZSKpTpuwLsDDUhy
+
+
+
+mongosh "mongodb+srv://chat-app.zlo8y.mongodb.net/" --apiVersion 1 --username pankajbhatt12345 --password 0ZSKpTpuwLsDDUhy
